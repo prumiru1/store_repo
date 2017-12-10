@@ -1,1 +1,12 @@
-Bestbuy
+{
+"stores": [
+{
+"name": "BestBuy",
+"url": "http://www.bestbuy.com"
+},
+{
+"name": "West Elm",
+"url": "http://www.westelm.com"
+}
+]
+}
