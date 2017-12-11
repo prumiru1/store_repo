@@ -7,6 +7,18 @@
 {
 "name": "West Elm",
 "url": "http://www.westelm.com"
+},
+{
+"name": "Crate & Barrel",
+"url": "http://www.crateandbarrel.com"
+},
+{
+"name": "Burbery",
+"url": "http://www.burbery.com"
+},
+{
+"name": "Rue La La",
+"url": "http://www.ruelala.com"
 }
 ]
 }
