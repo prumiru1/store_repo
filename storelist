@@ -1,6 +1,10 @@
 {
 "stores": [
 {
+"name": "Not selected",
+"url": ""
+},
+{
 "name": "BestBuy",
 "url": "http://www.bestbuy.com"
 },
