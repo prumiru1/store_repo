@@ -41,7 +41,8 @@
 "name": "Sephora",
 "url": "http://www.sephora.com",
 "search": "/search/search.jsp",
-"query": "n/a"
+"query": "keyword={keyword}&mode=all",
+"query_price": "&pl={minprice}&ph={maxprice}"
 }
 ]
 }
