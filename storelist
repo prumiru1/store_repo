@@ -8,7 +8,7 @@
 {
 "name": "BestBuy",
 "url": "http://www.bestbuy.com",
-"query": "n/a"
+"query": "/site/searchpage.jsp?cp=1&searchType=search&st={keyword}&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&nrp=&sp=&qp=currentprice_facet%3DPrice~{minprice}%20to%20{maxprice}&list=n&af=true&iht=y&usc=All%20Categories&ks=960&keys=keys"
 },
 {
 "name": "West Elm",
