@@ -16,14 +16,14 @@
 {
 "name": "West Elm",
 "url": "http://www.westelm.com",
-"search": "n/a",
-"query": "n/a"
+"search": "/search/results.html",
+"query": "words={keyword}&cm_sp=HeaderLinks-_-OnsiteSearch-_-MainSite&cm_type=OnsiteSearch"
 },
 {
 "name": "Crate & Barrel",
 "url": "http://www.crateandbarrel.com",
-"search": "n/a",
-"query": "n/a"
+"search": "/search",
+"query": "query={keyword}"
 },
 {
 "name": "Burbery",
@@ -39,8 +39,8 @@
 },
 {
 "name": "Sephora",
-"url": "http://www.sephora2.com",
-"search": "n/a",
+"url": "http://www.sephora.com",
+"search": "/search/search.jsp",
 "query": "n/a"
 }
 ]
