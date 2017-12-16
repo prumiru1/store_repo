@@ -2,31 +2,38 @@
 "stores": [
 {
 "name": "Not selected",
-"url": "http://"
+"url": "http://",
+"query": "n/a"
 },
 {
 "name": "BestBuy",
-"url": "http://www.bestbuy.com"
+"url": "http://www.bestbuy.com",
+"query": "n/a"
 },
 {
 "name": "West Elm",
-"url": "http://www.westelm.com"
+"url": "http://www.westelm.com",
+"query": "n/a"
 },
 {
 "name": "Crate & Barrel",
-"url": "http://www.crateandbarrel.com"
+"url": "http://www.crateandbarrel.com",
+"query": "n/a"
 },
 {
 "name": "Burbery",
-"url": "http://www.burbery.com"
+"url": "http://www.burbery.com",
+"query": "n/a"
 },
 {
 "name": "Rue La La",
-"url": "http://www.ruelala.com"
+"url": "http://www.ruelala.com",
+"query": "n/a"
 },
 {
 "name": "Sephora",
-"url": "http://www.sephora2.com"
+"url": "http://www.sephora2.com",
+"query": "n/a"
 }
 ]
 }
