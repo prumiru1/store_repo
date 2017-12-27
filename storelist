@@ -15,28 +15,10 @@
 "query_price": "&qp=currentprice_facet=Price~{minprice} to {maxprice}"
 },
 {
-"name": "West Elm",
-"url": "http://www.westelm.com",
-"search": "/search/results.html",
-"query": "words={keyword}&cm_sp=HeaderLinks-_-OnsiteSearch-_-MainSite&cm_type=OnsiteSearch"
-},
-{
 "name": "Crate & Barrel",
 "url": "http://www.crateandbarrel.com",
 "search": "/search",
 "query": "query={keyword}"
-},
-{
-"name": "Burbery",
-"url": "http://www.burbery.com",
-"search": "n/a",
-"query": "n/a"
-},
-{
-"name": "Rue La La",
-"url": "http://www.ruelala.com",
-"search": "n/a",
-"query": "n/a"
 },
 {
 "name": "Sephora",
@@ -44,6 +26,12 @@
 "search": "/search/search.jsp",
 "query": "keyword={keyword}&mode=all",
 "query_price": "&pl={minprice}&ph={maxprice}"
+},
+{
+"name": "West Elm",
+"url": "http://www.westelm.com",
+"search": "/search/results.html",
+"query": "words={keyword}&cm_sp=HeaderLinks-_-OnsiteSearch-_-MainSite&cm_type=OnsiteSearch"
 }
 ]
 }
