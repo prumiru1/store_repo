@@ -27,6 +27,12 @@
 "query": "query={keyword}"
 },
 {
+"name": "Saks Fifth Avenue",
+"url": "https://www.saksfifthavenue.com",
+"search": "/search/EndecaSearch.jsp",
+"query": "bmForm=header-search&bmFormID=m2amyyP&bmUID=m2amyyQ&bmIsForm=true&bmPrevTemplate=/Entry.jsp&bmArch=bmForm&bmForm=endeca_search_form_one&bmHidden=submit-search&submit-search=&bmArch=bmSingle&bmSingle=N_Dim&bmHidden=N_Dim&N_Dim=0&bmArch=bmHidden&bmHidden=Ntk&bmHidden=Ntk&Ntk=Entire+Site&bmArch=bmHidden&bmHidden=Ntx&bmHidden=Ntx&Ntx=mode+matchpartialmax&bmHidden=Ntt&Ntt={keyword}&bmText=SearchString&SearchString={keyword}"
+},
+{
 "name": "Kohls",
 "url": "https://www.kohls.com",
 "search": "/search.jsp",
