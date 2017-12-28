@@ -21,7 +21,7 @@
 "query": "query={keyword}"
 },
 {
-"name": "Kohls",
+"name": "Kohls2",
 "url": "https://www.kohls.com",
 "search": "/search.jsp",
 "query": "submit-search=web-regular&search={keyword}"
