@@ -21,10 +21,11 @@
 "query": "query={keyword}"
 },
 {
-"name": "Kohls2",
+"name": "Kohls",
 "url": "https://www.kohls.com",
 "search": "/search.jsp",
-"query": "submit-search=web-regular&search={keyword}"
+"query": "submit-search=web-regular&search={keyword}",
+"query_price": "&xPrice~{minprice} to {maxprice}"
 },
 {
 "name": "Sephora",
