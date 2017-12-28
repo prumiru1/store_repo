@@ -21,6 +21,13 @@
 "query": "query={keyword}"
 },
 {
+"name": "Kohls",
+"url": "https://www.kohls.com",
+"search": "/search.jsp",
+"query": "submit-search=web-regular&search={keyword}",
+"query_price": "&CN=Price:${minprice} to ${maxprice}"
+},
+{
 "name": "Sephora",
 "url": "http://www.sephora.com",
 "search": "/search/search.jsp",
