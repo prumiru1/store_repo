@@ -15,6 +15,12 @@
 "query_price": "&qp=currentprice_facet=Price~{minprice} to {maxprice}"
 },
 {
+"name": "Bloomingdale's",
+"url": "https://www.bloomingdales.com",
+"search": "/shop/search",
+"query": "keyword={keyword}"
+},
+{
 "name": "Crate & Barrel",
 "url": "http://www.crateandbarrel.com",
 "search": "/search",
