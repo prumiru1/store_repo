@@ -24,7 +24,8 @@
 "name": "Kohls",
 "url": "https://www.kohls.com",
 "search": "/search.jsp",
-"query": "submit-search=web-regular&search={keyword}"
+"query": "submit-search=web-regular&search={keyword}",
+"query_price": "xxx={minprice}"
 },
 {
 "name": "Sephora",
