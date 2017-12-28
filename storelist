@@ -28,7 +28,7 @@
 "query_price": "&pl={minprice}&ph={maxprice}"
 },
 {
-"name": "Target",
+"name": "Target2",
 "url": "http://www.target.com",
 "search": "/s",
 "query": "searchTerm={keyword}",
