@@ -38,7 +38,7 @@
 "url": "http://www.target.com",
 "search": "/s",
 "query": "searchTerm={keyword}",
-"query_price": "&minPrice={minprice}&maxPrice={maxprice}&sortBy=relevance&og=chandelier"
+"query_price": "&minPrice={minprice}&maxPrice={maxprice}&sortBy=relevance"
 },
 {
 "name": "West Elm",
