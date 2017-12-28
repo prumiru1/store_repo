@@ -39,6 +39,12 @@
 "query": "submit-search=web-regular&search={keyword}"
 },
 {
+"name": "Neiman Marcus",
+"url": "http://www.neimanmarcus.com",
+"search": "/eSearch.jsp",
+"query": "N=0&Ntt={keyword}"
+},
+{
 "name": "Nordstrom",
 "url": "https://shop.nordstrom.com",
 "search": "/sr",
