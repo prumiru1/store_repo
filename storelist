@@ -8,6 +8,12 @@
 "query_price": "n/a"
 },
 {
+"name": "Amazon",
+"url": "https://www.amazon.com",
+"search": "/s/ref=nb_sb_noss_2",
+"query": "url=search-alias=aps&field-keywords={keyword}"
+},
+{
 "name": "BestBuy",
 "url": "http://www.bestbuy.com",
 "search": "/site/searchpage.jsp",
