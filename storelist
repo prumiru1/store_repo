@@ -39,6 +39,12 @@
 "query": "submit-search=web-regular&search={keyword}"
 },
 {
+"name": "Nordstrom",
+"url": "https://shop.nordstrom.com",
+"search": "/sr",
+"query": "origin=keywordsearch&keyword={keyword}"
+},
+{
 "name": "Saks Fifth Avenue",
 "url": "https://www.saksfifthavenue.com",
 "search": "/search/EndecaSearch.jsp",
