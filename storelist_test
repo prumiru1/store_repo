@@ -1,1 +1,62 @@
-
+{
+"stores": [
+{
+"name": "Not selected",
+"url": "http://",
+"search": "n/a",
+"query": "n/a",
+"query_price": "n/a"
+},
+{
+"name": "BestBuy",
+"url": "http://www.bestbuy.com",
+"search": "/site/searchpage.jsp",
+"query": "cp=1&searchType=search&st={keyword}&_dyncharset=UTF-8&id=pcat17071&type=page&sc=Global&nrp=&sp=&list=n&af=true&iht=y&usc=All Categories&ks=960&keys=keys",
+"query_price": "&qp=currentprice_facet=Price~{minprice} to {maxprice}"
+},
+{
+"name": "Bloomingdale's",
+"url": "https://www.bloomingdales.com",
+"search": "/shop/search",
+"query": "keyword={keyword}"
+},
+{
+"name": "Crate & Barrel",
+"url": "http://www.crateandbarrel.com",
+"search": "/search",
+"query": "query={keyword}"
+},
+{
+"name": "Kohls",
+"url": "https://www.kohls.com",
+"search": "/search.jsp",
+"query": "submit-search=web-regular&search={keyword}"
+},
+{
+"name": "Saks Fifth Avenue",
+"url": "https://www.saksfifthavenue.com",
+"search": "/search/EndecaSearch.jsp",
+"query": "bmForm=header-search&bmFormID=m2amyyP&bmUID=m2amyyQ&bmIsForm=true&bmPrevTemplate=/Entry.jsp&bmArch=bmForm&bmForm=endeca_search_form_one&bmHidden=submit-search&submit-search=&bmArch=bmSingle&bmSingle=N_Dim&bmHidden=N_Dim&N_Dim=0&bmArch=bmHidden&bmHidden=Ntk&bmHidden=Ntk&Ntk=Entire+Site&bmArch=bmHidden&bmHidden=Ntx&bmHidden=Ntx&Ntx=mode+matchpartialmax&bmHidden=Ntt&Ntt={keyword}&bmText=SearchString&SearchString={keyword}"
+},
+{
+"name": "Sephora",
+"url": "http://www.sephora.com",
+"search": "/search/search.jsp",
+"query": "keyword={keyword}&mode=all",
+"query_price": "&pl={minprice}&ph={maxprice}"
+},
+{
+"name": "Target",
+"url": "http://www.target.com",
+"search": "/s",
+"query": "searchTerm={keyword}",
+"query_price": "&minPrice={minprice}&maxPrice={maxprice}&sortBy=relevance"
+},
+{
+"name": "West Elm",
+"url": "http://www.westelm.com",
+"search": "/search/results.html",
+"query": "words={keyword}&cm_sp=HeaderLinks-_-OnsiteSearch-_-MainSite&cm_type=OnsiteSearch"
+}
+]
+}
